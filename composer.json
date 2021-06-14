@@ -1,0 +1,7 @@
+{
+    "require": {
+        "composer/composer": "^2.0",
+        "phpmailer/phpmailer": "^6.4",
+        "hekmatinasser/verta": "^1.11"
+    }
+}
