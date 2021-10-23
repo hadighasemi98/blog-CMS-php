@@ -7,7 +7,7 @@
   <p align="center">
     A blog for shareing what you like !
     <br />
-    <a href="https://github.com/hadighasemi98/my-first-project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/hadighasemi98/blog-CMS-php"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     
@@ -19,11 +19,11 @@
 
 This is a small blog created using the PHP pure . It allows you to create and edit a posts and manage them on your dashboard.
 
-![alt text](https://github.com/hadighasemi98/my-first-project/blob/master/blog-screenshot.jpg?raw=true)
+![alt text](https://github.com/hadighasemi98/blog-CMS-php/blob/master/blog-screenshot.jpg?raw=true)
 
-![alt text](https://github.com/hadighasemi98/my-first-project/blob/master/CMS-screenshot.JPG?raw=true)
+![alt text](https://github.com/hadighasemi98/blog-CMS-php/blob/master/CMS-screenshot.JPG?raw=true)
 
-![alt text](https://github.com/hadighasemi98/my-first-project/blob/master/category-screenshot.jpg?raw=true)
+![alt text](https://github.com/hadighasemi98/blog-CMS-php/blob/master/category-screenshot.jpg?raw=true)
 
 
 -----
@@ -37,7 +37,7 @@ This is a small blog created using the PHP pure . It allows you to create and ed
 * Forgot your password page and set a new password
 
 -----
-![alt text](https://github.com/hadighasemi98/my-first-project/blob/master/signup-security.jpg?raw=true)
+![alt text](https://github.com/hadighasemi98/blog-CMS-php/blob/master/signup-security.jpg?raw=true)
 
 -----
 <!-- GETTING STARTED -->
@@ -51,7 +51,7 @@ To get a local copy up and running follow these simple example steps.
 step 1 : 
 Clone the repo
    ```sh
-   git clone https://github.com/hadighasemi98/my-first-project
+   git clone https://github.com/hadighasemi98/blog-CMS-php
    ```
    
 step 2 : 
@@ -74,7 +74,7 @@ users
 
 Hadi Ghasemi - hadi77.hg@gmail.com - [https://t.me/hadigh98](https://t.me/hadigh98)
 
-Project Link: https://github.com/hadighasemi98/my-first-project
+Project Link: https://github.com/hadighasemi98/blog-CMS-php
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
